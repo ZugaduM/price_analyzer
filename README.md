@@ -1,9 +1,9 @@
 <img src="https://github.com/user-attachments/assets/3296ec13-8cea-47cc-a4d7-d81e931de2e8" align="center" alt="Authentications">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/zugadum/module-20)
-![GitHub repo size](https://img.shields.io/github/repo-size/zugadum/module-20)
-![GitHub Repo stars](https://img.shields.io/github/stars/zugadum/module-20)
-![GitHub watchers](https://img.shields.io/github/watchers/zugadum/module-20)
+![GitHub last commit](https://img.shields.io/github/last-commit/zugadum/price_analyzer)
+![GitHub repo size](https://img.shields.io/github/repo-size/zugadum/price_analyzer)
+![GitHub Repo stars](https://img.shields.io/github/stars/zugadum/price_analyzer)
+![GitHub watchers](https://img.shields.io/github/watchers/zugadum/price_analyzer)
 ![GitHub followers](https://img.shields.io/github/followers/zugadum)
 ![Static Badge](https://img.shields.io/badge/e--mail%3A-zugadum%40gmail.com-blue?link=mailto:zugadum@gmail.com)
 
